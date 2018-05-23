@@ -1,0 +1,40 @@
+#wrap{
+  height: 400px;
+  width: 400px;
+  margin: 0 auto;
+  border: 1px solid black;
+  margin-top: 100px;
+  position: absolute;
+}
+#drugi_wrap{
+  height: 400px;
+  width: 400px;
+  margin-top: 100px;
+  margin-left: 600px;
+  border: solid black 1px;
+  float: left;
+}
+.zid{
+  height: 20px;
+  width: 20px;
+  float: left;
+  background: black;
+}
+.put{
+  height: 20px;
+  width: 20px;
+  float: left;
+  background: white;
+}
+#krug{
+  background: red;
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+}
+#kraj{
+  height: 20px;
+  width: 20px;
+  background: green;
+  border-radius: 50%;
+}
